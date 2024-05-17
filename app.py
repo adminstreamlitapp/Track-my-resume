@@ -13,7 +13,7 @@ import time
 load_dotenv()
 
 # Configure the generative AI model with the Google API key
-genai.configure(api_key=os.getenv("AIzaSyDkZ3Xg_qfvUHWBu_BAjmqLUagbay61Li0"))
+genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
 
 # Set up the model configuration for text generation
