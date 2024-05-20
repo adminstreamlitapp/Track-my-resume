@@ -244,7 +244,7 @@ text-align: center;
 }
 </style>
 <div class="footer">
-<p>Developed with ❤ by<a style='display: block; text-align: center;' href="https://github.com/Gitesh08" target="_blank">Gitesh Mahadik</a></p>
+<p>Developed with ❤ by<a style='display: block; text-align: center;' href="https://github.com/Gitesh08" target="_blank">I</a></p>
 </div>
 """
 st.markdown(footer,unsafe_allow_html=True)
